@@ -1,1 +1,1 @@
-# pruneBNN
+# BNNPruning
