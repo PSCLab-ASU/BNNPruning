@@ -5,8 +5,8 @@ Flipping Frequency (https://ren-fengbo.lab.asu.edu/sites/default/files/pid633484
 
 The code is written based upon jiecaoyu/XNOR-Net-PyTorch (https://github.com/jiecaoyu/XNOR-Net-PyTorch). Please follow XNOR-Net-PyTorch to setup the environment and place the modified files in the CIFAR-10 folder. 
 
-# Training
+## Training
 run main.py to start training. 
 
-# Post-training 
+## Post-training 
 run run.py to analysis weight flipping frequency
