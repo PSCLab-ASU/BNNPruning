@@ -1,3 +1,5 @@
+## Pruning BNN
+
 This is the source code for paper BNN Pruning: Pruning Binary Neural Network Guided by Weight
 Flipping Frequency (https://ren-fengbo.lab.asu.edu/sites/default/files/pid6334845.pdf). The paper is accepted by 21st IEEE International Symposium on Quality Electronic Design (ISQED).
 
